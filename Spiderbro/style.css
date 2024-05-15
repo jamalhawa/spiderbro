@@ -1,0 +1,48 @@
+body {
+  width: 750px;
+  margin: auto;
+  padding-bottom: 40px;
+  background-color: darkred;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+}
+
+html {
+  background-color: darkblue;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+h1,
+h3 {
+  font-family: fantasy;
+  color: white;
+  font-weight: lighter;
+  padding-top: 30px;
+}
+
+h3 {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+img {
+  border-radius: 40px;
+}
+
+h5 {
+  margin-top: 0px;
+}
